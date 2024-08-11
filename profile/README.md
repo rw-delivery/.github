@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/rw-service-delivery)](https://github.com/rw-delivery)
 [![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/+jS3pEA-iExI3N2M6)
 
-Here are the components around [Service Delivery application](https://www.riddleweb.ru) it's based on, including:
+Here are the components around [Service Delivery application](https://github.com/rw-delivery) it's based on, including:
 
 #### Domain
 
